@@ -1,16 +1,28 @@
-### Hi there 👋
+## О себе
+- Почти бэкенд разработчик.
 
-<!--
-**toastmanager/toastmanager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+    <summary>
+    <h2>🛠️ Языки и инструменты</h2>
+    </summary>
 
-Here are some ideas to get you started:
+#### Серверная часть
+[![Backend](https://skillicons.dev/icons?i=python,django,nodejs,postgres)](https://skillicons.dev)
+#### Клиентская часть
+[![Frontend](https://skillicons.dev/icons?i=js,react,html,css,dart,flutter)](https://skillicons.dev)
+#### Инструменты
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,bash,linux,vscode,figma,postman)](https://skillicons.dev)
+</details>
+<details>
+    <summary>
+        <h2>💻 Хакатоны</h2>
+    </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2023 год
+| Хакатон                | Проект                                                            | Место |
+| ---------------------- | ----------------------------------------------------------------- | ----- |
+| Hack The Ice 5.0       | [I-Went](https://github.com/i-went-ru/backend)                    | 3     |
+| AccelProIt             | [Netler](https://github.com/JustAlexeyDev/Netler)                 | 5     |
+| H.I.M СУНЦ             | [SkyBook](https://github.com/JustAlexeyDev/SkyBook)               | 2     |
+| Моя профессия – ИТ     | [Free Time Spending](https://github.com/toastmanager/ft_spending) | -     |
+</details>
