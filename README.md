@@ -7,11 +7,11 @@
     </summary>
 
 #### Серверная часть
-[![Backend](https://skillicons.dev/icons?i=python,django,nodejs,postgres)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,django,nodejs,postgres,firebase)](https://skillicons.dev)
 #### Клиентская часть
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,html,css,dart,flutter)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,js,vite,react,html,css,tailwind,dart,flutter)](https://skillicons.dev)
 #### Инструменты
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,bash,linux,vscode,figma,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,bash,linux,vscode,figma,postman)](https://skillicons.dev)
 </details>
 <details>
     <summary>
