@@ -21,7 +21,7 @@
 #### 2024 год
 | Хакатон                | Проект                                                            | Место | Даты проведения    |
 | ---------------------- | ----------------------------------------------------------------- | ----- | ------------------ |
-| GISIT-2024             | [SkyBook](https://github.com/toastmanager/yakutia-your-landmark)  | 3     | 5-7 апреля 2024    |
+| GISIT-2024             | [Yakutia Your Landmark](https://github.com/toastmanager/yakutia-your-landmark)  | 3     | 5-7 апреля 2024    |
 | PeakIT                 | [Anchor](https://github.com/toastmanager/anchor)                  | 1     | 11-13 февраля 2024 |
 
 #### 2023 год
