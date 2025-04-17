@@ -1,31 +1,3 @@
-## Демонстрация проектов
-
-**«Мост Домой»** — приложение с телеграм-ботом для волонтёров, предназначенное для реабилитации ветеранов СВО. Приложение написано на Flutter, бэкенд и телеграм бот на NestJS.
-
-https://github.com/user-attachments/assets/260c0fe0-02fa-49fa-a306-ddb88a7ede95
-
-**«Anchor»** — платформа для вовлечения студентов в активности ВУЗа. Функционал: новости, запись на мероприятия, роли. Приложение написано на Flutter, для бэкенда использовался Firebase.
-
-https://github.com/user-attachments/assets/36028b39-f599-4148-bf92-3209646dd899
-
-<details open>
-    <summary>
-    <h2>🛠️ Языки и инструменты</h2>
-    </summary>
-
-#### Языки
-[![Languages](https://skillicons.dev/icons?i=dart,ts,js,python,html,css)](https://skillicons.dev)
-
-Dart, TypeScript, JavaScript, Python, HTML, CSS
-#### Фреймворки
-[![Frameworks](https://skillicons.dev/icons?i=flutter,nestjs,django,fastapi,nextjs,react)](https://skillicons.dev)
-
-Flutter, NestJS, Django, FastAPI, Next.js
-#### Инструменты
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,figma)](https://skillicons.dev)
-
-git, Github Actions, Docker, Figma
-</details>
 <details open>
     <summary>
         <h2>🏆 Активности</h2>
@@ -53,4 +25,35 @@ git, Github Actions, Docker, Figma
 | AccelProIt         | 5     | Хакатон | [Netler](https://github.com/JustAlexeyDev/Netler)                 |                              |
 | H.I.M СУНЦ         | 2     | Хакатон | [SkyBook](https://github.com/JustAlexeyDev/SkyBook)               | Номинация лучший разработчик |
 | Моя профессия – ИТ | -     | Хакатон | [Free Time Spending](https://github.com/toastmanager/ft_spending) |                              |
+</details>
+<details open>
+    <summary>
+    <h2>🎥 Демонстрация проектов</h2>
+    </summary>
+
+**«Мост Домой»** — приложение с телеграм-ботом для волонтёров, предназначенное для реабилитации ветеранов СВО. Приложение написано на Flutter, бэкенд и телеграм бот на NestJS.
+
+https://github.com/user-attachments/assets/260c0fe0-02fa-49fa-a306-ddb88a7ede95
+
+**«Anchor»** — платформа для вовлечения студентов в активности ВУЗа. Функционал: новости, запись на мероприятия, роли. Приложение написано на Flutter, для бэкенда использовался Firebase.
+
+https://github.com/user-attachments/assets/36028b39-f599-4148-bf92-3209646dd899
+</details>
+<details open>
+    <summary>
+    <h2>🛠️ Языки и инструменты</h2>
+    </summary>
+
+#### Языки
+[![Languages](https://skillicons.dev/icons?i=dart,ts,js,python,html,css)](https://skillicons.dev)
+
+Dart, TypeScript, JavaScript, Python, HTML, CSS
+#### Фреймворки
+[![Frameworks](https://skillicons.dev/icons?i=flutter,nestjs,django,fastapi,nextjs,react)](https://skillicons.dev)
+
+Flutter, NestJS, Django, FastAPI, Next.js
+#### Инструменты
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,figma)](https://skillicons.dev)
+
+git, Github Actions, Docker, Figma
 </details>
